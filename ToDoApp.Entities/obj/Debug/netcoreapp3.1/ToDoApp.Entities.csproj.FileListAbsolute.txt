@@ -1,0 +1,9 @@
+C:\Users\musta\source\repos\ToDoApp\ToDoApp.Entities\bin\Debug\netcoreapp3.1\ToDoApp.Entities.deps.json
+C:\Users\musta\source\repos\ToDoApp\ToDoApp.Entities\bin\Debug\netcoreapp3.1\ToDoApp.Entities.dll
+C:\Users\musta\source\repos\ToDoApp\ToDoApp.Entities\bin\Debug\netcoreapp3.1\ToDoApp.Entities.pdb
+C:\Users\musta\source\repos\ToDoApp\ToDoApp.Entities\obj\Debug\netcoreapp3.1\ToDoApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\source\repos\ToDoApp\ToDoApp.Entities\obj\Debug\netcoreapp3.1\ToDoApp.Entities.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\ToDoApp\ToDoApp.Entities\obj\Debug\netcoreapp3.1\ToDoApp.Entities.AssemblyInfo.cs
+C:\Users\musta\source\repos\ToDoApp\ToDoApp.Entities\obj\Debug\netcoreapp3.1\ToDoApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\ToDoApp\ToDoApp.Entities\obj\Debug\netcoreapp3.1\ToDoApp.Entities.dll
+C:\Users\musta\source\repos\ToDoApp\ToDoApp.Entities\obj\Debug\netcoreapp3.1\ToDoApp.Entities.pdb

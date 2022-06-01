@@ -1,0 +1,16 @@
+C:\Users\musta\source\repos\ToDoApp\ToDoApp.DataAccess\bin\Debug\netcoreapp3.1\ToDoApp.DataAccess.deps.json
+C:\Users\musta\source\repos\ToDoApp\ToDoApp.DataAccess\bin\Debug\netcoreapp3.1\ToDoApp.DataAccess.runtimeconfig.json
+C:\Users\musta\source\repos\ToDoApp\ToDoApp.DataAccess\bin\Debug\netcoreapp3.1\ToDoApp.DataAccess.runtimeconfig.dev.json
+C:\Users\musta\source\repos\ToDoApp\ToDoApp.DataAccess\bin\Debug\netcoreapp3.1\ToDoApp.DataAccess.dll
+C:\Users\musta\source\repos\ToDoApp\ToDoApp.DataAccess\bin\Debug\netcoreapp3.1\ToDoApp.DataAccess.pdb
+C:\Users\musta\source\repos\ToDoApp\ToDoApp.DataAccess\bin\Debug\netcoreapp3.1\ToDoApp.Entities.dll
+C:\Users\musta\source\repos\ToDoApp\ToDoApp.DataAccess\bin\Debug\netcoreapp3.1\ToDoApp.Entities.pdb
+C:\Users\musta\source\repos\ToDoApp\ToDoApp.DataAccess\obj\Debug\netcoreapp3.1\ToDoApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\ToDoApp\ToDoApp.DataAccess\obj\Debug\netcoreapp3.1\ToDoApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\source\repos\ToDoApp\ToDoApp.DataAccess\obj\Debug\netcoreapp3.1\ToDoApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\ToDoApp\ToDoApp.DataAccess\obj\Debug\netcoreapp3.1\ToDoApp.DataAccess.AssemblyInfo.cs
+C:\Users\musta\source\repos\ToDoApp\ToDoApp.DataAccess\obj\Debug\netcoreapp3.1\ToDoApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\ToDoApp\ToDoApp.DataAccess\obj\Debug\netcoreapp3.1\ToDoApp.DataAccess.csproj.CopyComplete
+C:\Users\musta\source\repos\ToDoApp\ToDoApp.DataAccess\obj\Debug\netcoreapp3.1\ToDoApp.DataAccess.dll
+C:\Users\musta\source\repos\ToDoApp\ToDoApp.DataAccess\obj\Debug\netcoreapp3.1\ToDoApp.DataAccess.pdb
+C:\Users\musta\source\repos\ToDoApp\ToDoApp.DataAccess\obj\Debug\netcoreapp3.1\ToDoApp.DataAccess.genruntimeconfig.cache
